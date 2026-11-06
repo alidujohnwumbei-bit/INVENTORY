@@ -1,0 +1,6 @@
+{
+  "name": "Royal Wun'zaligu Enterprise - Excel Inventory",
+  "description": "Excel-style inventory and material valuation system for Royal Wun'zaligu Enterprise with real-time GHS auto-calculations, auto-sum, and Excel export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
